@@ -30,7 +30,7 @@ npm run dev
 
 ### 1 填写配置信息，并保存。此保存是临时保存。每次保存都会覆盖之前的配置。后端服务重启后，数据丢失。
 
-<img src="./public/desc1.png" />
+![desc1](https://github.com/weiqilong/generate-entity/blob/master/public/desc1.png?raw=true)
 
 ### 2 点击更新配置后，会查询出所有的表，选中要逆向的表，点击生成代码即可。
 
